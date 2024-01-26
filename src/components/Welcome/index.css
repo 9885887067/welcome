@@ -1,0 +1,36 @@
+.bg-container {
+  background-color: #1e293b;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  color: #f0bb03;
+  font-size: 40px;
+  font-family: 'Bree Serif';
+}
+.para {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: 'Bree Serif';
+}
+.button {
+  background-color: #ffffff;
+  height: 45px;
+  width: 120px;
+  font-size: 15px;
+  border: none #ffffff;
+  border-radius: 16px;
+  font-family: 'Bree Serif';
+}
+.button-container {
+  margin-top: 20px;
+}
